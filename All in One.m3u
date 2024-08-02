@@ -20,23 +20,20 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport 1
 http://185.189.225.157/EuroSport1/index.m3u8
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport 1 HD
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport 1 HD
 http://217.27.239.226:8888/play/35/index.m3u8
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD
 http://185.189.225.157/EuroSport2/index.m3u8
-
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD
 http://217.27.239.226:8888/play/36/index.m3u8
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD 
 http://allinonereborn.tech/allinone.php?id=46719
