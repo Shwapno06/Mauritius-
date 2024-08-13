@@ -20,530 +20,998 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
-#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport
-http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport 1
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport 1 HD
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" group-title="Sports",EuroSport 1 HD
-http://217.27.239.226:8888/play/35/index.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD
-http://217.27.239.226:8888/play/36/index.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD
-http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD 
-http://allinonereborn.tech/allinone.php?id=46719
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo=""1061.png" group-title="Sony Liv",TEN2 HD 
-http://allinonereborn.tech/allinone.php?id=47904
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo=""3058.png" group-title="Sony Liv",TEN3 HD 
-http://allinonereborn.tech/allinone.php?id=47909
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo=""1465.png" group-title="Sony Liv",Sony Six HD 
-http://allinonereborn.tech/allinone.php?id=34193
+#EXTINF:-1 group-title="SPORTS" ,USA: Gol TV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14160
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (4K/UHD UK Eurosport )
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19391
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 1)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19390
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 2)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19389
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 3)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19388
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 4)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19387
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 5)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19386
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 6)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19385
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 7)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19384
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 8)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19383
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport UK 9)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19382
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 1)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19381
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 2)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19380
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 3)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19379
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 4)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19378
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 5)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19377
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 6)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19376
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 7)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19375
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 8)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19374
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport 9)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19373
+#EXTINF:-1 group-title="SPORTS" ,Olympics- (Eurosport- 4K/UHD CZ)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19372
+#EXTINF:-1 group-title="SPORTS" ,Olympic Channel
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19371
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 9
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19370
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 8 (E!)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19369
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 7 (CNBC)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19368
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 6 (Universo)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19367
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 5 (Telemundo)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19366
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 4 (USA Network)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19365
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 3 (NBC)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19364
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 2 (BBC Two)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19363
+#EXTINF:-1 group-title="SPORTS" ,OLYMPICS 01 (BBC One)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19362
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 7: 16.15 Dundee United vs Ayr United
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19343
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 6: 20:00 Buckie Thistle vs Dundee United
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19342
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 5: Ross County vs Stirling Albion 15.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19341
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 4: Dundee vs Inverness CT 15.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19340
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 3: Hibernian vs Peterhead 15.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19339
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 2: St Johnstone v East Fife 15.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19338
+#EXTINF:-1 group-title="SPORTS" ,Scottish Cup 1: Aberdeen v Dumbarton 15.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19337
+#EXTINF:-1 group-title="SPORTS" ,Dirtvision event 9: 7.13.24 | Knoxville Raceway // UK Sun 14 Jul 12:45am // ET Sat 13 Jul 7:45pm
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18772
+#EXTINF:-1 group-title="SPORTS" ,AU: Sky 1 Racing HD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18765
+#EXTINF:-1 group-title="SPORTS" ,GREYHOUND DERBY 2024
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18763
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 22
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18759
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 23
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18758
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 24
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18757
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 25
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18756
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 26
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18755
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 27
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18754
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 28
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18753
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 29
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18752
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 30
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18751
+#EXTINF:-1 group-title="SPORTS" ,Optus 13 HD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18748
+#EXTINF:-1 group-title="SPORTS" ,Optus 12 HD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18747
+#EXTINF:-1 group-title="SPORTS" ,Hub Sports 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18708
+#EXTINF:-1 group-title="SPORTS" ,Hub Sports 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18707
+#EXTINF:-1 group-title="SPORTS" ,Hub Sports 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18706
+#EXTINF:-1 group-title="SPORTS" ,Hub Sports 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18705
+#EXTINF:-1 group-title="SPORTS" ,Hub Sport 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18704
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Premier Sports  
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18695
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports Prime
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18694
+#EXTINF:-1 group-title="SPORTS" ,NIFL 8 | 
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18304
+#EXTINF:-1 group-title="SPORTS" ,NIFL 7 | 
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18303
+#EXTINF:-1 group-title="SPORTS" ,NIFL 6 | 
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18302
+#EXTINF:-1 group-title="SPORTS" ,NIFL 5 | 
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18301
+#EXTINF:-1 group-title="SPORTS" ,NIFL 4 | Glenavon vs Linfield | Sat 10 3PM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18300
+#EXTINF:-1 group-title="SPORTS" ,NIFL 3 | Dungannon vs Crusaders | Sat 10 3PM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18299
+#EXTINF:-1 group-title="SPORTS" ,NIFL 2 | Cliftonville vs Coleraine | Sat 10n 3PM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18298
+#EXTINF:-1 group-title="SPORTS" ,NIFL 1 | Glentoran vs Carrick | Sat 10 3PM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18297
+#EXTINF:-1 group-title="SPORTS" ,African Cup of Nations 04: Zambia vs Morocco Wednesday 20.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18296
+#EXTINF:-1 group-title="SPORTS" ,African Cup of Nations 03: Tanazania vs DR Congo Wednesday 20.00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18295
+#EXTINF:-1 group-title="SPORTS" ,African Cup of Nations 02: Ivory Coast vs Congo 20.00 Wednesday
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18294
+#EXTINF:-1 group-title="SPORTS" ,African Cup of Nations 01: Nigeria v Ivory Coast 20.00 Sunday
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18293
+#EXTINF:-1 group-title="SPORTS" ,Florugby 07
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18284
+#EXTINF:-1 group-title="SPORTS" ,Florugby 06
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18283
+#EXTINF:-1 group-title="SPORTS" ,Florugby 05
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18282
+#EXTINF:-1 group-title="SPORTS" ,Florugby 04
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18281
+#EXTINF:-1 group-title="SPORTS" ,Florugby 03
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18280
+#EXTINF:-1 group-title="SPORTS" ,Florugby 02
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18279
+#EXTINF:-1 group-title="SPORTS" ,Florugby 01
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18278
+#EXTINF:-1 group-title="SPORTS" ,Florugby 00
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18277
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY NZ | ESPN 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18268
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY NZ | ESPN
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18267
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ Popup 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18266
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ Select
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18265
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 9
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18264
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ Premier League
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18263
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18262
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18261
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18260
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18259
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18258
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18257
+#EXTINF:-1 group-title="SPORTS" ,FHD SKY SPORTS NZ 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18256
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 10 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18106
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 09 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18105
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 08 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18104
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 07 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18103
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 06 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18102
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 05 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18101
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 04 | 03th Jan | St Killian's Garron Tower 19:30pm Cross & Passion
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18100
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 03 | 10 Jan | Down v 19:30 Cavan
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18099
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 02
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18098
+#EXTINF:-1 group-title="SPORTS" ,ULSTER GAA 01 | Tyrone v Monaghan 19.30
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/18097
+#EXTINF:-1 group-title="SPORTS" ,Tyrone Gaa 05: 
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17889
+#EXTINF:-1 group-title="SPORTS" ,Tyrone Gaa 04:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17888
+#EXTINF:-1 group-title="SPORTS" ,Tyrone Gaa 03:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17887
+#EXTINF:-1 group-title="SPORTS" ,Tyrone Gaa 02:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17886
+#EXTINF:-1 group-title="SPORTS" ,Tyrone Gaa 01:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17885
+#EXTINF:-1 group-title="SPORTS" ,Boxing 8: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17731
+#EXTINF:-1 group-title="SPORTS" ,Boxing 7: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17730
+#EXTINF:-1 group-title="SPORTS" ,Boxing 6: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17729
+#EXTINF:-1 group-title="SPORTS" ,Boxing 5: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17728
+#EXTINF:-1 group-title="SPORTS" ,Boxing 4: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17727
+#EXTINF:-1 group-title="SPORTS" ,Boxing 3: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17726
+#EXTINF:-1 group-title="SPORTS" ,Boxing 2: Queensberry v Matchroom 5 v 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17725
+#EXTINF:-1 group-title="SPORTS" ,Boxing 1: Goodmayes vs Worawut
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17724
+#EXTINF:-1 group-title="SPORTS" ,Amazon League1 FR: : 3 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5817
+#EXTINF:-1 group-title="SPORTS" ,Amazon League1 FR: : 3 HD+
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5818
+#EXTINF:-1 group-title="SPORTS" ,Amazon League1 FR: : 4 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5819
+#EXTINF:-1 group-title="SPORTS" ,Amazon League1 FR: : 4 HD+
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5820
+#EXTINF:-1 group-title="SPORTS" ,Amazon League1 FR: : 5 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5821
+#EXTINF:-1 group-title="SPORTS" ,Amazon League1 FR: : 5 HD+
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5822
+#EXTINF:-1 group-title="SPORTS" tvg-id="0.AMUK" ,Amazon UK Event 0
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13116
+#EXTINF:-1 group-title="SPORTS" tvg-id="1.AMUK" ,Amazon UK Event 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13117
+#EXTINF:-1 group-title="SPORTS" tvg-id="2.AMUK" ,Amazon UK Event 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13118
+#EXTINF:-1 group-title="SPORTS" tvg-id="3.AMUK" ,Amazon UK Event 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13119
+#EXTINF:-1 group-title="SPORTS" tvg-id="4.AMUK" ,Amazon UK Event 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13120
+#EXTINF:-1 group-title="SPORTS" tvg-id="5.AMUK" ,Amazon UK Event 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13121
+#EXTINF:-1 group-title="SPORTS" tvg-id="6.AMUK" ,Amazon UK Event 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13122
+#EXTINF:-1 group-title="SPORTS" tvg-id="7.AMUK" ,Amazon UK Event 7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13123
+#EXTINF:-1 group-title="SPORTS" tvg-id="8.AMUK" ,Amazon UK Event 8
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13124
+#EXTINF:-1 group-title="SPORTS" tvg-id="9.AMUK" ,Amazon UK Event 9
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13125
+#EXTINF:-1 group-title="SPORTS" tvg-id="10.AMUK" ,Amazon UK Event 10
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13126
+#EXTINF:-1 group-title="SPORTS" tvg-id="11.AMUK" ,Amazon UK Event 11
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13127
+#EXTINF:-1 group-title="SPORTS" tvg-id="12.AMUK" ,Amazon UK Event 12
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13128
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 1 FHD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1787
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 2 FHD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1788
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 3 FHD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1789
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 4 FHD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1790
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 5 FHD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1791
+#EXTINF:-1 group-title="SPORTS" ,Arena Sport 6 FHD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1792
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | SPOTV 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11503
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | SPOTV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11502
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | Eurosport
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11501
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | Awani
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11500
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | Bola
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11499
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | beIN Sports 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11498
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | beIN Sports 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11497
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | beIN Sports 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11496
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | W Sport
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11495
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | SuperSport 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11494
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | SuperSport 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11493
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | SuperSport 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11492
+#EXTINF:-1 group-title="SPORTS" ,Astro Sooka | SuperSport 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11491
+#EXTINF:-1 group-title="SPORTS" ,AU: beIN Sports 1 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4986
+#EXTINF:-1 group-title="SPORTS" ,AU: beIN Sports 2 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4987
+#EXTINF:-1 group-title="SPORTS" ,AU: beIN Sports 3 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4988
+#EXTINF:-1 group-title="SPORTS" ,AU: ESPN 1 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4989
+#EXTINF:-1 group-title="SPORTS" ,AU: ESPN 2 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4990
+#EXTINF:-1 group-title="SPORTS" ,AU: Fox Cricket FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4991
+#EXTINF:-1 group-title="SPORTS" ,AUS: FOX CRICKET
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4040
+#EXTINF:-1 group-title="SPORTS" ,AUS: FOX LEAGUE
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4041
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 501
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2904
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 502
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2905
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 503
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2906
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 504
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2907
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 505
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2908
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 506
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2909
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 507
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/2910
+#EXTINF:-1 group-title="SPORTS" ,AU: FOX SPORTS 508
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10046
+#EXTINF:-1 group-title="SPORTS" ,AU: Racing.com
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4985
+#EXTINF:-1 group-title="SPORTS" tvg-id="0.espn" ,ESPN PLUS 00:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13553
+#EXTINF:-1 group-title="SPORTS" tvg-id="1.espn" ,ESPN PLUS 01:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13554
+#EXTINF:-1 group-title="SPORTS" tvg-id="2.espn" ,ESPN PLUS 02:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13555
+#EXTINF:-1 group-title="SPORTS" tvg-id="3.espn" ,ESPN PLUS 03:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13556
+#EXTINF:-1 group-title="SPORTS" tvg-id="4.espn" ,ESPN PLUS 04:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13557
+#EXTINF:-1 group-title="SPORTS" tvg-id="5.espn" ,ESPN PLUS 05:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13558
+#EXTINF:-1 group-title="SPORTS" tvg-id="6.espn" ,ESPN PLUS 06:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13559
+#EXTINF:-1 group-title="SPORTS" tvg-id="7.espn" ,ESPN PLUS 07:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13560
+#EXTINF:-1 group-title="SPORTS" tvg-id="8.espn" ,ESPN PLUS 08:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13561
+#EXTINF:-1 group-title="SPORTS" tvg-id="9.espn" ,ESPN PLUS 09:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13562
+#EXTINF:-1 group-title="SPORTS" tvg-id="10.espn" ,ESPN PLUS 10:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13563
+#EXTINF:-1 group-title="SPORTS" tvg-id="11.espn" ,ESPN PLUS 11:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13564
+#EXTINF:-1 group-title="SPORTS" tvg-id="12.espn" ,ESPN PLUS 12:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13565
+#EXTINF:-1 group-title="SPORTS" tvg-id="13.espn" ,ESPN PLUS 13:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13566
+#EXTINF:-1 group-title="SPORTS" tvg-id="14.espn" ,ESPN PLUS 14:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13567
+#EXTINF:-1 group-title="SPORTS" tvg-id="15.espn" ,ESPN PLUS 15:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13568
+#EXTINF:-1 group-title="SPORTS" tvg-id="16.espn" ,ESPN PLUS 16:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13569
+#EXTINF:-1 group-title="SPORTS" tvg-id="17.espn" ,ESPN PLUS 17:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13570
+#EXTINF:-1 group-title="SPORTS" tvg-id="18.espn" ,ESPN PLUS 18:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13571
+#EXTINF:-1 group-title="SPORTS" tvg-id="19.espn" ,ESPN PLUS 19:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13572
+#EXTINF:-1 group-title="SPORTS" tvg-id="20.espn" ,ESPN PLUS 20:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13573
+#EXTINF:-1 group-title="SPORTS" tvg-id="21.espn" ,ESPN PLUS 21:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13574
+#EXTINF:-1 group-title="SPORTS" tvg-id="22.espn" ,ESPN PLUS 22:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13575
+#EXTINF:-1 group-title="SPORTS" tvg-id="23.espn" ,ESPN PLUS 23:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13576
+#EXTINF:-1 group-title="SPORTS" tvg-id="24.espn" ,ESPN PLUS 24:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13577
+#EXTINF:-1 group-title="SPORTS" tvg-id="25.espn" ,ESPN PLUS 25:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13578
+#EXTINF:-1 group-title="SPORTS" tvg-id="26.espn" ,ESPN PLUS 26:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13579
+#EXTINF:-1 group-title="SPORTS" tvg-id="27.espn" ,ESPN PLUS 27:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13580
+#EXTINF:-1 group-title="SPORTS" tvg-id="28.espn" ,ESPN PLUS 28:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13581
+#EXTINF:-1 group-title="SPORTS" tvg-id="29.espn" ,ESPN PLUS 29:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13582
+#EXTINF:-1 group-title="SPORTS" tvg-id="30.espn" ,ESPN PLUS 30:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13583
+#EXTINF:-1 group-title="SPORTS" tvg-id="31.espn" ,ESPN PLUS 31:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13584
+#EXTINF:-1 group-title="SPORTS" tvg-id="32.espn" ,ESPN PLUS 32:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13585
+#EXTINF:-1 group-title="SPORTS" tvg-id="33.espn" ,ESPN PLUS 33:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13586
+#EXTINF:-1 group-title="SPORTS" tvg-id="34.espn" ,ESPN PLUS 34:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13587
+#EXTINF:-1 group-title="SPORTS" tvg-id="35.espn" ,ESPN PLUS 35:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13588
+#EXTINF:-1 group-title="SPORTS" tvg-id="36.espn" ,ESPN PLUS 36:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13589
+#EXTINF:-1 group-title="SPORTS" tvg-id="37.espn" ,ESPN PLUS 37:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13590
+#EXTINF:-1 group-title="SPORTS" tvg-id="38.espn" ,ESPN PLUS 38:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13591
+#EXTINF:-1 group-title="SPORTS" tvg-id="39.espn" ,ESPN PLUS 39:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13592
+#EXTINF:-1 group-title="SPORTS" tvg-id="40.espn" ,ESPN PLUS 40:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13593
+#EXTINF:-1 group-title="SPORTS" tvg-id="41.espn" ,ESPN PLUS 41:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13594
+#EXTINF:-1 group-title="SPORTS" tvg-id="42.espn" ,ESPN PLUS 42:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13595
+#EXTINF:-1 group-title="SPORTS" tvg-id="43.espn" ,ESPN PLUS 43:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13596
+#EXTINF:-1 group-title="SPORTS" tvg-id="44.espn" ,ESPN PLUS 44:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13597
+#EXTINF:-1 group-title="SPORTS" tvg-id="45.espn" ,ESPN PLUS 45:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13598
+#EXTINF:-1 group-title="SPORTS" tvg-id="46.espn" ,ESPN PLUS 46:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13599
+#EXTINF:-1 group-title="SPORTS" tvg-id="47.espn" ,ESPN PLUS 47:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13600
+#EXTINF:-1 group-title="SPORTS" tvg-id="48.espn" ,ESPN PLUS 48:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13601
+#EXTINF:-1 group-title="SPORTS" tvg-id="49.espn" ,ESPN PLUS 49:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13602
+#EXTINF:-1 group-title="SPORTS" tvg-id="50.espn" ,ESPN PLUS 50:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13603
+#EXTINF:-1 group-title="SPORTS" tvg-id="51.espn" ,ESPN PLUS 51:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13604
+#EXTINF:-1 group-title="SPORTS" tvg-id="52.espn" ,ESPN PLUS 52:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13605
+#EXTINF:-1 group-title="SPORTS" tvg-id="53.espn" ,ESPN PLUS 53:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13606
+#EXTINF:-1 group-title="SPORTS" tvg-id="54.espn" ,ESPN PLUS 54:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13607
+#EXTINF:-1 group-title="SPORTS" tvg-id="55.espn" ,ESPN PLUS 55:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13608
+#EXTINF:-1 group-title="SPORTS" tvg-id="56.espn" ,ESPN PLUS 56:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13609
+#EXTINF:-1 group-title="SPORTS" tvg-id="57.espn" ,ESPN PLUS 57:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13610
+#EXTINF:-1 group-title="SPORTS" tvg-id="58.espn" ,ESPN PLUS 58:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13611
+#EXTINF:-1 group-title="SPORTS" tvg-id="59.espn" ,ESPN PLUS 59:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13612
+#EXTINF:-1 group-title="SPORTS" tvg-id="60.espn" ,ESPN PLUS 60:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13613
+#EXTINF:-1 group-title="SPORTS" tvg-id="61.espn" ,ESPN PLUS 61:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13614
+#EXTINF:-1 group-title="SPORTS" tvg-id="62.espn" ,ESPN PLUS 62:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13615
+#EXTINF:-1 group-title="SPORTS" tvg-id="63.espn" ,ESPN PLUS 63:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13616
+#EXTINF:-1 group-title="SPORTS" tvg-id="64.espn" ,ESPN PLUS 64:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13617
+#EXTINF:-1 group-title="SPORTS" tvg-id="65.espn" ,ESPN PLUS 65:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13618
+#EXTINF:-1 group-title="SPORTS" tvg-id="66.espn" ,ESPN PLUS 66:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13619
+#EXTINF:-1 group-title="SPORTS" tvg-id="67.espn" ,ESPN PLUS 67:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13620
+#EXTINF:-1 group-title="SPORTS" tvg-id="68.espn" ,ESPN PLUS 68:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13621
+#EXTINF:-1 group-title="SPORTS" tvg-id="69.espn" ,ESPN PLUS 69:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13622
+#EXTINF:-1 group-title="SPORTS" tvg-id="70.espn" ,ESPN PLUS 70:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13623
+#EXTINF:-1 group-title="SPORTS" tvg-id="71.espn" ,ESPN PLUS 71:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13624
+#EXTINF:-1 group-title="SPORTS" tvg-id="72.espn" ,ESPN PLUS 72:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13625
+#EXTINF:-1 group-title="SPORTS" tvg-id="73.espn" ,ESPN PLUS 73:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13626
+#EXTINF:-1 group-title="SPORTS" tvg-id="74.espn" ,ESPN PLUS 74:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13627
+#EXTINF:-1 group-title="SPORTS" tvg-id="75.espn" ,ESPN PLUS 75:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13628
+#EXTINF:-1 group-title="SPORTS" tvg-id="76.espn" ,ESPN PLUS 76:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13629
+#EXTINF:-1 group-title="SPORTS" tvg-id="77.espn" ,ESPN PLUS 77:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13630
+#EXTINF:-1 group-title="SPORTS" tvg-id="78.espn" ,ESPN PLUS 78:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13631
+#EXTINF:-1 group-title="SPORTS" tvg-id="79.espn" ,ESPN PLUS 79:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13632
+#EXTINF:-1 group-title="SPORTS" tvg-id="80.espn" ,ESPN PLUS 80:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13633
+#EXTINF:-1 group-title="SPORTS" tvg-id="81.espn" ,ESPN PLUS 81:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13634
+#EXTINF:-1 group-title="SPORTS" tvg-id="82.espn" ,ESPN PLUS 82:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13635
+#EXTINF:-1 group-title="SPORTS" tvg-id="83.espn" ,ESPN PLUS 83:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13636
+#EXTINF:-1 group-title="SPORTS" tvg-id="84.espn" ,ESPN PLUS 84:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13637
+#EXTINF:-1 group-title="SPORTS" tvg-id="85.espn" ,ESPN PLUS 85:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13638
+#EXTINF:-1 group-title="SPORTS" tvg-id="86.espn" ,ESPN PLUS 86:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13639
+#EXTINF:-1 group-title="SPORTS" tvg-id="87.espn" ,ESPN PLUS 87:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13640
+#EXTINF:-1 group-title="SPORTS" tvg-id="88.espn" ,ESPN PLUS 88:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13641
+#EXTINF:-1 group-title="SPORTS" tvg-id="89.espn" ,ESPN PLUS 89:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13642
+#EXTINF:-1 group-title="SPORTS" tvg-id="90.espn" ,ESPN PLUS 90:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13643
+#EXTINF:-1 group-title="SPORTS" tvg-id="91.espn" ,ESPN PLUS 91:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13644
+#EXTINF:-1 group-title="SPORTS" tvg-id="92.espn" ,ESPN PLUS 92:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13645
+#EXTINF:-1 group-title="SPORTS" tvg-id="93.espn" ,ESPN PLUS 93:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13646
+#EXTINF:-1 group-title="SPORTS" tvg-id="94.espn" ,ESPN PLUS 94:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13647
+#EXTINF:-1 group-title="SPORTS" tvg-id="95.espn" ,ESPN PLUS 95:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13648
+#EXTINF:-1 group-title="SPORTS" tvg-id="96.espn" ,ESPN PLUS 96:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13649
+#EXTINF:-1 group-title="SPORTS" tvg-id="97.espn" ,ESPN PLUS 97:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13650
+#EXTINF:-1 group-title="SPORTS" tvg-id="98.espn" ,ESPN PLUS 98:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13651
+#EXTINF:-1 group-title="SPORTS" tvg-id="99.espn" ,ESPN PLUS 99:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13652
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 100:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13653
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 101:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13654
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 102:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13655
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 103:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13656
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 104:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13657
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 105:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13658
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 106:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13659
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 107:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13660
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 108:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13661
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 109:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13662
+#EXTINF:-1 group-title="SPORTS" ,ESPN PLUS 110:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13663
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 1 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13482
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 2 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13483
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 3 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13484
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 4 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13485
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 5 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13486
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 6 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13487
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 7 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13488
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 8 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13489
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 9 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13490
+#EXTINF:-1 group-title="SPORTS" ,Eurosport XTRA 10 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13491
+#EXTINF:-1 group-title="SPORTS" ,MotoGP : Main Race
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4997
+#EXTINF:-1 group-title="SPORTS" ,Moto GP | Commentary Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14399
+#EXTINF:-1 group-title="SPORTS" ,MotoGP |  HELI Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14401
+#EXTINF:-1 group-title="SPORTS" ,MotoGP |  OB1 Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14402
+#EXTINF:-1 group-title="SPORTS" ,MotoGP |  OB2 Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14403
+#EXTINF:-1 group-title="SPORTS" ,MotoGP |  OB3 Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14404
+#EXTINF:-1 group-title="SPORTS" ,Moto GP | Ambient Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14400
+#EXTINF:-1 group-title="SPORTS" ,MotoGP |  OB4 Feed
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14405
+#EXTINF:-1 group-title="SPORTS" ,NL- FOX Sports 2 HD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3132
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3145
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3146
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3147
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3148
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3149
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3150
+#EXTINF:-1 group-title="SPORTS" ,Now HK Premier Sports 7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3151
+#EXTINF:-1 group-title="SPORTS" ,Now Sports Prime
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3152
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 4K 617
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5682
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 4K 616
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5683
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9965
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9964
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9963
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9962
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9961
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9960
+#EXTINF:-1 group-title="SPORTS" ,Now HK Now Sports 7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/9959
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock01" ,Peacock 1:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10859
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock02" ,Peacock 2:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10860
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock03" ,Peacock 3:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10861
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock04" ,Peacock 4:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10862
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock05" ,Peacock 5:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10863
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock06" ,Peacock 6:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10864
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock07" ,Peacock 7:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10865
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock08" ,peacock 08:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10866
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock09" ,peacock 09:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10867
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock10" ,peacock 10:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10868
+#EXTINF:-1 group-title="SPORTS" tvg-id="peacock11" ,peacock 11:
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/10869
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 12
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/15508
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 13
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/15509
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 14
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/15510
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 15
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/15511
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 16
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16014
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 17
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16015
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 18
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16016
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 19
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16017
+#EXTINF:-1 group-title="SPORTS" ,Peacock | Event 20
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16018
+#EXTINF:-1 group-title="SPORTS" ,Peacock GOLF
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14151
+#EXTINF:-1 group-title="SPORTS" ,Peacock : NBC Sport
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12747
+#EXTINF:-1 group-title="SPORTS" ,Peacock: PremierLeague
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12748
+#EXTINF:-1 group-title="SPORTS" ,Peacock Telemundo
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14152
+#EXTINF:-1 group-title="SPORTS" ,Peacock WWE
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14153
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Circle
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14391
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | CJ ENM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14386
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Dateline 24/7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14383
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Golf Pass
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14381
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Hallmark Channel
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14388
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Hallmark Drama
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14390
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Hallmark Movies & Mystery
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14389
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | LOL Network
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14393
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC LX
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14392
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News Boston
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14377
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News Chicago
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14374
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News Florida
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14379
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News LA
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14375
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News New York
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14376
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News Now
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14380
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC News Philadelphia
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14378
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NBC Sports
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14373
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | NFL Network Channel
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14384
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Premier League
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14372
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | REELZ
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14394
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Sky News
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14395
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | SNL Vault
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14385
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Telemundo Al Dia
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14387
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | This Old House
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14396
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | Today All Day
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14382
+#EXTINF:-1 group-title="SPORTS" ,Peacock Live | WWE Network
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14371
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 1 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3135
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 1 HD (720P)
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3136
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3137
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 2 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3138
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3139
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 3 FHD
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3140
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3141
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3142
+#EXTINF:-1 group-title="SPORTS" ,Portugal- Sport TV 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3143
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 3 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1779
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 6 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1782
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub Golf
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1785
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 10 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/1786
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5223
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5224
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5225
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5226
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5227
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5228
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5229
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 8
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5230
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 9
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5231
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 10
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5232
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 11
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5233
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 12
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5234
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 13
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5235
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 14
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5236
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 15
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5237
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 16
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5238
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 17
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5239
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 18
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5240
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 19
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5241
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 20
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/5242
+#EXTINF:-1 group-title="SPORTS" ,Stan Sport AU Event 21
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12705
+#EXTINF:-1 group-title="SPORTS" ,TT RACES01
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16019
+#EXTINF:-1 group-title="SPORTS" ,TT RACES02
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16020
+#EXTINF:-1 group-title="SPORTS" ,TT RACES03
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16021
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/E2QQXHRkv0jdI59n_IzuzCU3sWSWVm-Yb6aXg4KmQB6dhR3U31F-WvytRjVWnm-g.png" ,Ultimate Pool | Event  1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14148
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/E2QQXHRkv0jdI59n_IzuzCU3sWSWVm-Yb6aXg4KmQB6dhR3U31F-WvytRjVWnm-g.png" ,Ultimate Pool |  Event 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14149
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/E2QQXHRkv0jdI59n_IzuzCU3sWSWVm-Yb6aXg4KmQB6dhR3U31F-WvytRjVWnm-g.png" ,Ultimate Pool | Event 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14150
+#EXTINF:-1 group-title="SPORTS" ,Ultimate Pool | Event 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14280
+#EXTINF:-1 group-title="SPORTS" ,Ultimate Pool | Event 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14281
+#EXTINF:-1 group-title="SPORTS" ,Ultimate Pool | Event 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14282
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 1 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11631
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 2 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11632
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 3 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11633
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 4 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11634
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 5 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11635
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 6 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11636
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 7 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11637
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 8 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11638
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 9 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11639
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 10 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11640
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 11 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12869
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 12 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12870
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 13 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12871
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 14 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12872
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 15 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12873
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 16 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12882
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 17 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12883
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 18 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12884
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 19 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12885
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 20 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12886
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 21 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12887
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 22 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12888
+#EXTINF:-1 group-title="SPORTS" ,Vidio EPL 23 |
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/12889
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 24
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13139
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 25
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13140
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 26
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13141
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 27
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13142
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 28
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13143
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 29
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13144
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 30
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13145
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 31
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13146
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 32
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13147
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 33
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13148
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 34
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13149
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" ,Vidio Live Events | 35
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13150
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ott.wrc.com/image/original/00d3d82c-7e99-4905-a83d-216b36611a73.jpeg?v=20210412145049" ,WRC 04 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4573
+#EXTINF:-1 group-title="SPORTS" ,Redbull TV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4726
+#EXTINF:-1 group-title="SPORTS" ,MMA Junkie
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4728
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 18
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19361
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 17
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19360
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 16
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19359
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 15
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19358
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 14
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19357
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 13
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19356
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 12
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19355
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 11
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19354
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 10
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19353
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 9
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19352
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 8
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19351
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 7
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19350
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 6
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19349
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 5
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19348
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 4
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19347
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19346
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19345
+#EXTINF:-1 group-title="SPORTS" ,TNT Sports | Event 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/19344
+#EXTINF:-1 group-title="SPORTS" ,CricLife 3
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17735
+#EXTINF:-1 group-title="SPORTS" ,CricLife 2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17734
+#EXTINF:-1 group-title="SPORTS" ,CricLife 1
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17733
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 1 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17019
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 2 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17018
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 4 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17017
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 5 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17016
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 7 HD HR [Live During Events Only]
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17015
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 8 HD HR [Live During Events Only]
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17014
+#EXTINF:-1 group-title="SPORTS" ,Sport Klub 9 HD HR
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/17013
+#EXTINF:-1 group-title="SPORTS" ,UKFHD: Dazn PPV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16006
+#EXTINF:-1 group-title="SPORTS" ,UK SD : LA LIGA TV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13532
+#EXTINF:-1 group-title="SPORTS" ,UK HD : LA LIGA TV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13531
+#EXTINF:-1 group-title="SPORTS" ,UK FHD : LA LIGA TV
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13530
+#EXTINF:-1 group-title="SPORTS" ,ECB 1 : Northamptonshire Steelbacks vs Derbyshire Falcons - Vitality Blast Live Stream | Tue 7th 4:30PM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4511
+#EXTINF:-1 group-title="SPORTS" ,ECB 2 : Northamptonshire Steelbacks vs Derbyshire Falcons - Vitality Blast Live Stream | Tue 7th 4:30PM
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4512
+#EXTINF:-1 group-title="SPORTS" ,ECB 3 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4513
+#EXTINF:-1 group-title="SPORTS" ,ECB 4 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4514
+#EXTINF:-1 group-title="SPORTS" ,ECB 5 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4515
+#EXTINF:-1 group-title="SPORTS" ,ECB 6 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4516
+#EXTINF:-1 group-title="SPORTS" ,ECB 7 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4517
+#EXTINF:-1 group-title="SPORTS" ,ECB 8 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4518
+#EXTINF:-1 group-title="SPORTS" ,ECB 9 :
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4520
+#EXTINF:-1 group-title="SPORTS" ,DStv : SuperSport ESPN2
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4984
+#EXTINF:-1 group-title="SPORTS" ,DStv : SuperSport ESPN
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4983
+#EXTINF:-1 group-title="SPORTS" ,DSTV: SUPERSPORT PLAY
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4982
+#EXTINF:-1 group-title="SPORTS" ,Dstv: Supersport Tennis
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/4947
+#EXTINF:-1 group-title="SPORTS" ,EPL 4K 01
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/16970
+#EXTINF:-1 group-title="SPORTS" ,EPL 4K  02
 
-#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=ts&play_token=SdkGLGkoNA&sn2=
-#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
-#EXTINF:-1 tvg-id="I9473.61854.schedulesdirect.org" tvg-logo=""1101.png" group-title="Pakistani",NBC Golf 
-https://allinonereborn.in/allinone.php?id=48149
-#EXTINF:-1 tvg-id="I159.48639.schedulesdirect.org" tvg-logo=""397 group-title="Pakistani",NBC Sports 
-https://allinonereborn.in/allinone.php?id=48154
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo=""1063 group-title="Pakistani",Fox Sports 1 4K 
-https://allinonereborn.in/allinone.php?id=56308
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-logo=""1291 group-title="Pakistani",Fox Sports 2 4K 
-https://allinonereborn.in/allinone.php?id=52299
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo=""396 group-title="Pakistani",BT Sport 1 HD 
-https://allinonereborn.in/allinone.php?id=56304
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo=""393 group-title="Pakistani",BT Sport 2 HD 
-https://allinonereborn.in/allinone.php?id=13930
-#EXTINF:-1 tvg-id="PPV.19.schedulesdirect.org" tvg-logo=""5744 group-title="Pakistani",All Time Hit Kids Movie 
-https://allinonereborn.in/allinone.php?id=52704
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo=""5669.png" group-title="Pakistani",BT Sport 3 HD 
-https://allinonereborn.in/allinone.php?id=49219
-
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-logo=""8356.png" group-title="Pakistani",BT Sports 4 (Wait 10s to load) 
-https://allinonereborn.in/allinone.php?id=56216
-#EXTINF:-1 tvg-id="I1400.34313.schedulesdirect.org" tvg-logo=""1372.png" group-title="Pakistani",TSN1 HD 
-https://allinonereborn.in/allinone.php?id=48854
-#EXTINF:-1 tvg-id="I1401.61474.schedulesdirect.org" tvg-logo=""1380.png" group-title="Pakistani",TSN2 HD 
-https://allinonereborn.in/allinone.php?id=56236
-#EXTINF:-1 tvg-id="I1402.90119.schedulesdirect.org" tvg-logo=""1378.png" group-title="Pakistani",TSN3 HD 
-https://allinonereborn.in/allinone.php?id=48844
-#EXTINF:-1 tvg-id="I1403.90123.schedulesdirect.org" tvg-logo=""1374.png" group-title="Pakistani",TSN4 HD 
-https://allinonereborn.in/allinone.php?id=48849
-#EXTINF:-1 tvg-id="I1404.90125.schedulesdirect.org" tvg-logo=""1376.png" group-title="Pakistani",TSN5 HD 
-https://allinonereborn.in/allinone.php?id=56244
 
 
-#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo=""" group-title="Sports",Star Sports 1 Hindi HD 
-https://allinonereborn.in/allinone.php?id=57823
-#EXTINF:-1 tvg-id="starsports1.in" tvg-logo=""" group-title="Sports",Star Sports 1 ENG-HD 
-https://allinonereborn.in/allinone.php?id=54301
-#EXTINF:-1 tvg-id="" tvg-logo=""6874 group-title="Sports",Star Sports 2_HD 
-https://allinonereborn.in/allinone.php?id=51914
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo=""6879 group-title="Sports",Star Select 1 HD 
-https://allinonereborn.in/allinone.php?id=51919
-#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-logo=""6884 group-title="Sports",Star Select 2 HD 
-https://allinonereborn.in/allinone.php?id=57020
-#EXTINF:-1 tvg-id="" tvg-logo=""6899 group-title="Sports",Astro cricket HD 
-https://allinonereborn.in/allinone.php?id=51939
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo=""6904 group-title="Sports",Sky Cricket 
-https://allinonereborn.in/allinone.php?id=51944
-#EXTINF:-1 tvg-id="" tvg-logo=""6909.png" group-title="Sports",Sony Six 
-https://allinonereborn.in/allinone.php?id=56332
-#EXTINF:-1 tvg-id="" tvg-logo=""6919 group-title="Sports",DD SPORT 
-https://allinonereborn.in/allinone.php?id=51959
-#EXTINF:-1 tvg-id="" tvg-logo=""8523.jfif" group-title="Sports",A Sports 
-https://allinonereborn.in/allinone.php?id=56575
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/VBKoLHk.png",Bellator MMA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-
-
-#EXTINF:-1 ,Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 ,Shemaroo Filmigaane
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
-#EXTINF:-1 ,The Movie Club
-https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
-#EXTINF:-1 ,ZOOM TV
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 ,ZOOM TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-#EXTINF:-1 ,FTV
-https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
-#EXTINF:-1 ,YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 ,9XM Music
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 ,The BAYWATCH
-https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
-#EXTINF:-1 ,Fitness Plus plus
-https://streamer103.neterra.tv/wness/wness_SD.m3u8
-#EXTINF:-1 ,Colors HD
-http://103.120.172.74:1070
-#EXTINF:-1 ,Colors HD Stream3
-https://www.bdtubelive.xyz/new.m3u8?id=109
-#EXTINF:-1 ,STAR Plus HD
-http://103.120.172.74:4300
-#EXTINF:-1 ,SONY TV
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
-#EXTINF:-1 ,ZeeCinema HD
-https://www.bdtubelive.xyz/new.m3u8?id=151
-#EXTINF:-1 ,B4U Movies
-https://www.bdtubelive.xyz/new.m3u8?id=141
-#EXTINF:-1 ,StarBharat HD
-http://103.120.172.74:5200
-#EXTINF:-1 ,StarBharat HD
-https://www.bdtubelive.xyz/new.m3u8?id=119
-#EXTINF:-1 ,Utsav Plus HD
-https://www.bdtubelive.xyz/new.m3u8?id=105
-#EXTINF:-1 ,Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 ,Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 ,Bollywood Prime
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 ,Sony kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Sony SAB HD
-https://www.bdtubelive.xyz/new.m3u8?id=115
-#EXTINF:-1 ,B4U MOVIES
-http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 ,AXN
-http://170.254.18.106/AXN/index.m3u8
-#EXTINF:-1 ,STAR
-http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 ,Star Movies HD
-http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 ,Star Movies select HD
-http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
-
-
-#EXTINF:-1 ,The Q
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 ,Discovery Channel - Hindi
-https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-#EXTINF:-1 ,South Station
-https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
-#EXTINF:-1 ,Zeecafe HD
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 ,BWatch
-https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ,MoviesNowHD
-http://195.26.87.217/live.ts?channelId=162&uid=7438&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 ,FX HD
-http://170.254.18.106/FX/index.m3u8
-#EXTINF:-1 ,TNT
-http://170.254.18.106/TNT/index.m3u8
-
-#EXTINF:-1 ,Paramount
-http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF:-1 ,FOOD FOOD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
-
-#EXTINF:-1 ,TravelXP hindi HD
-https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Balle Balle
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 ,Saga Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
-#EXTINF:-1 ,MTV India
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
-https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg",Shema Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 ,#http://208.86.19.13:81/7300.stream/index.m3u8
-http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema UK
-http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png",B4U Movies IN
-http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Sports",Sports TV 1
-https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8?|referer=https://claplivehdplay.ru
-https://webudit.hlsjs.ru/lb/premium49/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MU TV
-https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 ,Real Madrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="Sports",ATN Abganisthan
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png",CGTN Documentary
-https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
-#EXTINF:-1 group-title="Information",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 group-title="Information" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Information",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
-#EXTINF:-1 group-title="Information",Discover Pakistan TV
-https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",Cartoon Network
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
-#EXTINF:-1 group-title="KIDS",Hungama TV
-http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",Pogo
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Doordarshan",DD National
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 group-title="Doordarshan",DD National
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Doordarshan",Sanshad TV HD
-https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
-#EXTINF:-1 group-title="Doordarshan",DD Manipur
-https://ddmanipur.org/hls/stream1.m3u8
-#EXTINF:-1 group-title="Doordarshan",DD Bharati
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddbharti/default/index.m3u8
-#EXTINF:-1 group-title="Doordarshan",DD Sports2
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="HindiNEWS",AajTak
-https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 group-title="HindiNEWS",AajTak HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 group-title="HindiNEWS",AajTak Prime
-https://feeds.intoday.in/aajtak/api/atprime/master.m3u8
-#EXTINF:-1 group-title="HindiNEWS",TEZ News
-https://feeds.intoday.in/aajtak/api/tez/master.m3u8
-#EXTINF:-1 group-title="HindiNEWS",ZEE News
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 group-title="HindiNEWS",ZEE BUSINESS
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="HindiNEWS",ABP News
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 group-title="HindiNEWS",India TV
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 group-title="HindiNEWS",JANTA TV News
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 group-title="HindiNEWS",NEWS 24 Hindi
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="HindiNEWS",INDIA NEWZ
-https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
-#EXTINF:-1 group-title="HindiNEWS",News Nation-Hindi
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/index.m3u8
-#EXTINF:-1 group-title="HindiNEWS",1st News - Hindi
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-#EXTINF:-1 group-title="HindiNEWS",NDTV khabar
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="HindiNEWS",NEWSINDIA24x7 TV
-https://sbnews.livebox.co.in/sbnewshls/live.m3u8
-#EXTINF:-1 group-title="HindiNEWS",Aaj ki Khabar
-https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Samachar24
-https://legitpro.co.in/hls5/samachar24/index.m3u8
-#EXTINF:-1 ,Inh Hindi News
-https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
-#EXTINF:-1 ,Jantantra TV
-https://thejbtcdn.vidgyor.com/thejbt-origin/liveabr/thejbt-origin/live_360p/chunks.m3u8
-#EXTINF:-1 ,Bharat Express
-https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:-1 group-title="EngNEWS",INDIA TODAY
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",INDIA TODAY
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="EngNEWS",NEWS9
-https://live.field59.com/kwtv/kwtv1/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="EngNEWS",NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
-#EXTINF:-1 group-title="EngNEWS",Bloomberg
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="EngNEWS",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="EngNEWS",TRTWorld
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="EngNEWS",BBC NEWS HD jp
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 group-title="EngNEWS",CNN HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="EngNEWS",CNN HD
-https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
-#EXTINF:-1 group-title="EngNEWS",CNN2 HD
-https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-#EXTINF:-1 group-title="EngNEWS",DW HD NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="EngNEWS",France24 News
-http://iptv.prosto.tv:7000/ch205/video.m3u8
-#EXTINF:-1 group-title="EngNEWS",CBNS-US NEWS
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 group-title="EngNEWS",CBNS-US NEWS
-https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
-#EXTINF:-1 group-title="EngNEWS",YAHOO NEWS
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",YAHOO FIN NEWS
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",NEWSX
-https://livetv.newsx.com/itv/itvnetwork4/chunklist.m3u8
-#EXTINF:-1 group-title="EngNEWS",ET NOW SWADESH
-https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="HindiNEWS",IBC24 NEWS
-https://livetv.ibc24.in/livestream.m3u8
-#EXTINF:-1 group-title="EngNEWS",RTNEWS USA
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",RTNEWS GLOBAL
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",DW NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="EngNEWS",Aljazeera News
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="EngNEWS",TODAY-allday USA
-https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
-#EXTINF:-1 group-title="EngNEWS",CNN
-https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
-#EXTINF:-1 group-title="EngNEWS",FOX News
-https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 group-title="EngNEWS",ABC News
-https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 group-title="EngNEWS",BBC News
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 group-title="EngNEWS",BBC FOOD
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-#EXTINF:-1 ,Test USA Stream1
-https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
-#EXTINF:-1 ,Test USA Stream2
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FTV
-https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FTV MID
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FTV
-https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FTV UHD
-https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",New Fashion
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FTV NYK
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
-#EXTINF:-1 ,FOX NEWS
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,TV5 Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 ,The First
-https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="USA TV",NEWS NOW
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
-#EXTINF:-1 ,Mello TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
-#EXTINF:-1 ,Vevo pop music
-https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-#EXTINF:-1 ,INDI POP
-https://tastemadetravel-redbox.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 ,ANIMAX
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,BRAT TV
-https://brat-samsung-us.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 ,ESPN2 4K
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 ,EURO SPORTS HD
-http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1 ,FIFA PLUS
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 ,Test3
-http://170.254.18.106/VH1/index.m3u8
-#EXTINF:-1 ,Test sports 4k
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Test sports2 4k
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 ,Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Shemaroo Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 ,MTV Pluto TV
-https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
-#EXTINF:-1 ,MTV usTV
-http://170.254.18.106/MTV/index.m3u8
-
-
-
-
-#EXTINF:-1 ,HBO2
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,HBO
-http://ip168.homeip.net:8086/hbo.m3u8
-#EXTINF:-1 ,HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 ,Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 ,Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 ,Action Hollywood
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 ,Korean TV
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
-#EXTINF:-1 ,TBS
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,DreamWorks
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,DreamWorks2
-https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,TLC HD
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Music Reload
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 ,Movie Sphere
-https://moviesphere-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,MTV -BR
-http://cdn2.connectbr.com.br/mtv/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 3 (VN)
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,FOX SPORTS (VN)
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 ,Channel1
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 ,CGTN DOCU
-https://tyt-roku-us.amagi.tv/master.m3u8
-#EXTINF:-1 ,EPIC
-https://epiconvh.s.llnwi.net/epic/master.m3u8
-#EXTINF:-1 ,MASTII MUSIC
-https://dai.google.com/linear/hls/event/n40NV2qQSrK55V5q8o_HCw/master.m3u8
-#EXTINF:-1 ,E24
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-#EXTINF:-1 ,Music India
-http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
-#EXTINF:-1 ,SONY MAX HD
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,SONY HD
-https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1 ,MBC Bollywood HD
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 ,Republic Bharat
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
-#EXTINF:-1 ,NDTV INDIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8
-#EXTINF:-1 ,NAVBHARAT TIMES HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-#EXTINF:-1 ,Republic TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
-#EXTINF:-1 ,NDTV 24X7
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
-#EXTINF:-1 ,Bloomberg TV
-https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Bloomberg TV
-https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
-#EXTINF:-1 ,Mastii Music
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-#EXTINF:-1 ,Xplore
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
-#EXTINF:-1 ,Jackhanna
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-jackhanna-samsungin/playlist.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-tennischannel-samsungin/playlist.m3u8
-#EXTINF:-1 ,Dabangg
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
-#EXTINF:-1 ,TLC-eng HD
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 ,Food (EU)
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Today's Homeowner (EU)
-https://janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Manifest TV (EU)
-https://kdmg-manifesttv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Brat TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-bratttv-xiaomi/playlist.m3u8
-#EXTINF:-1 ,Whoa That Was Wild (EU)
-https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,BRB (EU)
-https://playworksdigital-brb-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Ninja Kidz TV (EU)
-https://playworksdigital-ninjakidztv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Kids TV (US)
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Got Game (EU)
-https://gghubsrl-gotgame-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Best TV ever (EU)
-https://bec-besttvever-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Best TV ever (US)
-https://bec-besttvever-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Commune (EU)
-https://bec-commune-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,MoreU (EU)
-https://bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,The Grid (EU)
-https://bec-thegrid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Gusto TV (EU)
-https://gustotv-gustotv-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,HBO Sig
-http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 ,HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 ,HBO2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 ,HBO Mundi
-http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 ,HBO XTREME
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 ,Discovery US
-http://170.254.18.106/DISCOVERY/index.m3u8
-#EXTINF:-1 ,UTV Test
-http://173.225.32.123/UTV-2362/index.m3u8
-#EXTINF:-1 ,DesiMovies
-https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-240962/playlist.m3u8
-#EXTINF:-1 ,Bollywood Hungama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
