@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.ibb.co/YWdHcLR/SAVE-20230930-185326.jpg" , @ Shwapno Ahmed @
 https://t.me/+QN34112ngzYyNzQ1
 
+#EXTINF:-1 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_180058.jpg"group-title="Live Event Channel",T20 World Cup
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-logo="https://bdixtv247.techpriyo.com/wp-content/uploads/2024/06/ufea-1-300x300.png"group-title="Live Event Channel",EURO 2024
+http://watchindia.net:8880/live/65596/46234/2608.m3u8
 
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
