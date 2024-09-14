@@ -25,6 +25,29 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
 
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SONY SPORTS TEN 1 HD
+http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
+#EXTINF:-1 tvg-logo="" group-title="Sports", SONY SPORTS TEN 3 HD
+http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
+#EXTINF:-1 tvg-logo="" group-title="Sports", STAR SPORTS SELECT 2 HD
+http://ekdilhai.pro/AF_S2/mpegts
+#EXTINF:-1 tvg-logo="" group-title="Sports", TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", PTV SPORTS 
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", A SPORTS HD
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", DUBAI SPORTS
+#EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS LALIGA
+https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS PREMIER LEAGUE
+https://sports.bdixtv24.com/m3u8.php/superpremier.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS ACTION
+https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", FIFA +
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+
 #EXTINF:-1 group-title="SPORTS" ,USA: Gol TV
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/14160
 #EXTINF:-1 group-title="SPORTS" ,Olympics- (4K/UHD UK Eurosport )
