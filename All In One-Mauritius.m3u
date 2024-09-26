@@ -33,9 +33,51 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="16" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="ZEE5", Zee Talkies HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
-
-
-
-
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="17" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="ZEE5", Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bdixtv247.techpriyo.com/wp-content/uploads/2024/06/ufea-1-300x300.png"group-title="Live Event Channel",EURO 2024
+http://watchindia.net:8880/live/65596/46234/2608.m3u8
+
+#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
+#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&s
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
+#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
+#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SONY SPORTS TEN 1 HD
+http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
+#EXTINF:-1 tvg-logo="" group-title="Sports", SONY SPORTS TEN 3 HD
+http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
+#EXTINF:-1 tvg-logo="" group-title="Sports", STAR SPORTS SELECT 2 HD
+http://ekdilhai.pro/AF_S2/mpegts
+#EXTINF:-1 tvg-logo="" group-title="Sports", TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", PTV SPORTS 
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", A SPORTS HD
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", DUBAI SPORTS
+#EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS LALIGA
+https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS PREMIER LEAGUE
+https://sports.bdixtv24.com/m3u8.php/superpremier.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SUPER SPORTS ACTION
+https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", FIFA +
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+
+
+
