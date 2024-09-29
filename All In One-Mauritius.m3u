@@ -79,5 +79,224 @@ https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", FIFA +
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 
-
+#EXTINF:-1  tvg-name="STARZ COMEDY 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1454.jpg" group-title="PREMIUM MOVIES",STARZ COMEDY 4K cc
+http://150.242.202.110:824/jiobe/live/1454.ts
+#EXTINF:-1  tvg-name="STARZ EAST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1455.jpg" group-title="PREMIUM MOVIES",STARZ EAST 4K cc
+http://150.242.202.110:824/jiobe/live/1455.ts
+#EXTINF:-1  tvg-name="STARZ WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4994.jpg" group-title="PREMIUM MOVIES",STARZ WEST 4K cc
+http://150.242.202.110:824/jiobe/live/4994.ts
+#EXTINF:-1  tvg-name="STARZ ENCORE EAST 4K CC" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4995.jpg" group-title="PREMIUM MOVIES",STARZ ENCORE EAST 4K CC
+http://150.242.202.110:824/jiobe/live/4995.ts
+#EXTINF:-1  tvg-name="STARZ ENCORE ACTION 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4996.jpg" group-title="PREMIUM MOVIES",STARZ ENCORE ACTION 4K cc
+http://150.242.202.110:824/jiobe/live/4996.ts
+#EXTINF:-1  tvg-name="STARZ ENCORE CLASSIC 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4997.jpg" group-title="PREMIUM MOVIES",STARZ ENCORE CLASSIC 4K cc
+http://150.242.202.110:824/jiobe/live/4997.ts
+#EXTINF:-1  tvg-name="STARZ ENCORE BLACK 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4998.jpg" group-title="PREMIUM MOVIES",STARZ ENCORE BLACK 4K cc
+http://150.242.202.110:824/jiobe/live/4998.ts
+#EXTINF:-1  tvg-name="STARZ ENCORE WESTERN 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4999.jpg" group-title="PREMIUM MOVIES",STARZ ENCORE WESTERN 4K cc
+http://150.242.202.110:824/jiobe/live/4999.ts
+#EXTINF:-1  tvg-name="STARZ KIDS AND FAMILY 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5002.jpg" group-title="PREMIUM MOVIES",STARZ KIDS AND FAMILY 4K cc
+http://150.242.202.110:824/jiobe/live/5002.ts
+#EXTINF:-1  tvg-name="STARZ FAMILY 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5003.jpg" group-title="PREMIUM MOVIES",STARZ FAMILY 4K cc
+http://150.242.202.110:824/jiobe/live/5003.ts
+#EXTINF:-1  tvg-name="STARZ ENCORE SUSPENSE 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5000.jpg" group-title="PREMIUM MOVIES",STARZ ENCORE SUSPENSE 4K cc
+http://150.242.202.110:824/jiobe/live/5000.ts
+#EXTINF:-1  tvg-name="STARZ CINEMA 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5001.jpg" group-title="PREMIUM MOVIES",STARZ CINEMA 4K cc
+http://150.242.202.110:824/jiobe/live/5001.ts
+#EXTINF:-1  tvg-name="STARZ EDGE 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5006.jpg" group-title="PREMIUM MOVIES",STARZ EDGE 4K cc
+http://150.242.202.110:824/jiobe/live/5006.ts
+#EXTINF:-1  tvg-name="STARZ BLACK 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5004.jpg" group-title="PREMIUM MOVIES",STARZ BLACK 4K cc
+http://150.242.202.110:824/jiobe/live/5004.ts
+#EXTINF:-1  tvg-name="REWIND 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/42330.jpg" group-title="PREMIUM MOVIES",REWIND 4K
+http://150.242.202.110:824/jiobe/live/42330.ts
+#EXTINF:-1  tvg-name="STARZ CA 1 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/6063.jpg" group-title="PREMIUM MOVIES",STARZ CA 1 4K cc
+http://150.242.202.110:824/jiobe/live/6063.ts
+#EXTINF:-1  tvg-name="STARZ CA 2 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/6064.jpg" group-title="PREMIUM MOVIES",STARZ CA 2 4K cc
+http://150.242.202.110:824/jiobe/live/6064.ts
+#EXTINF:-1  tvg-name="HALLMARK CHANNEL 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1479.jpg" group-title="PREMIUM MOVIES",HALLMARK CHANNEL 4K cc
+http://150.242.202.110:824/jiobe/live/1479.ts
+#EXTINF:-1  tvg-name="HALLMARK MOVIES & MORE 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1502.jpg" group-title="PREMIUM MOVIES",HALLMARK MOVIES & MORE 4K
+http://150.242.202.110:824/jiobe/live/1502.ts
+#EXTINF:-1  tvg-name="HALLMARK MOVIES & MYSTERIES 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/7844.jpg" group-title="PREMIUM MOVIES",HALLMARK MOVIES & MYSTERIES 4K
+http://150.242.202.110:824/jiobe/live/7844.ts
+#EXTINF:-1  tvg-name="HALLMARK DRAMA 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1494.jpg" group-title="PREMIUM MOVIES",HALLMARK DRAMA 4K
+http://150.242.202.110:824/jiobe/live/1494.ts
+#EXTINF:-1  tvg-name="SILVER SCREEN CLASSIC 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13633.jpg" group-title="PREMIUM MOVIES",SILVER SCREEN CLASSIC 4K
+http://150.242.202.110:824/jiobe/live/13633.ts
+#EXTINF:-1  tvg-name="HBO 1 CA 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1456.jpg" group-title="PREMIUM MOVIES",HBO 1 CA 4K cc
+http://150.242.202.110:824/jiobe/live/1456.ts
+#EXTINF:-1  tvg-name="HBO 2 CA FHD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1457.jpg" group-title="PREMIUM MOVIES",HBO 2 CA FHD
+http://150.242.202.110:824/jiobe/live/1457.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1469.jpg" group-title="PREMIUM MOVIES",HBO SIGNATURE HD
+http://150.242.202.110:824/jiobe/live/1469.ts
+#EXTINF:-1  tvg-name="HBO SIGNATURE WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13825.jpg" group-title="PREMIUM MOVIES",HBO SIGNATURE WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13825.ts
+#EXTINF:-1  tvg-name="HBO LATINO FHD cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13817.jpg" group-title="PREMIUM MOVIES",HBO LATINO FHD cc
+http://150.242.202.110:824/jiobe/live/13817.ts
+#EXTINF:-1  tvg-name="HBO EAST 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1484.jpg" group-title="PREMIUM MOVIES",HBO EAST 4K
+http://150.242.202.110:824/jiobe/live/1484.ts
+#EXTINF:-1  tvg-name="HBO WEST 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1465.jpg" group-title="PREMIUM MOVIES",HBO WEST 4K
+http://150.242.202.110:824/jiobe/live/1465.ts
+#EXTINF:-1  tvg-name="HBO 2 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1478.jpg" group-title="PREMIUM MOVIES",HBO 2 4K cc
+http://150.242.202.110:824/jiobe/live/1478.ts
+#EXTINF:-1  tvg-name="HBO 2 WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13785.jpg" group-title="PREMIUM MOVIES",HBO 2 WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13785.ts
+#EXTINF:-1  tvg-name="HBO COMEDY EAST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1473.jpg" group-title="PREMIUM MOVIES",HBO COMEDY EAST 4K cc
+http://150.242.202.110:824/jiobe/live/1473.ts
+#EXTINF:-1  tvg-name="HBO COMEDY WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13793.jpg" group-title="PREMIUM MOVIES",HBO COMEDY WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13793.ts
+#EXTINF:-1  tvg-name="HBO FAMILY 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13801.jpg" group-title="PREMIUM MOVIES",HBO FAMILY 4K cc
+http://150.242.202.110:824/jiobe/live/13801.ts
+#EXTINF:-1  tvg-name="HBO FAMILY WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13809.jpg" group-title="PREMIUM MOVIES",HBO FAMILY WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13809.ts
+#EXTINF:-1  tvg-name="HBO ZONE EAST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13833.jpg" group-title="PREMIUM MOVIES",HBO ZONE EAST 4K cc
+http://150.242.202.110:824/jiobe/live/13833.ts
+#EXTINF:-1  tvg-name="HBO ZONE WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13841.jpg" group-title="PREMIUM MOVIES",HBO ZONE WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13841.ts
+#EXTINF:-1  tvg-name="CRAVE 1 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1468.jpg" group-title="PREMIUM MOVIES",CRAVE 1 4K cc
+http://150.242.202.110:824/jiobe/live/1468.ts
+#EXTINF:-1  tvg-name="CRAVE 2 FHD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1461.jpg" group-title="PREMIUM MOVIES",CRAVE 2 FHD
+http://150.242.202.110:824/jiobe/live/1461.ts
+#EXTINF:-1  tvg-name="CRAVE 3 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1459.jpg" group-title="PREMIUM MOVIES",CRAVE 3 4K cc
+http://150.242.202.110:824/jiobe/live/1459.ts
+#EXTINF:-1  tvg-name="CRAVE 4 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1458.jpg" group-title="PREMIUM MOVIES",CRAVE 4 4K cc
+http://150.242.202.110:824/jiobe/live/1458.ts
+#EXTINF:-1  tvg-name="ACTIONMAX EAST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13713.jpg" group-title="PREMIUM MOVIES",ACTIONMAX EAST 4K cc
+http://150.242.202.110:824/jiobe/live/13713.ts
+#EXTINF:-1  tvg-name="ACTIONMAX WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13721.jpg" group-title="PREMIUM MOVIES",ACTIONMAX WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13721.ts
+#EXTINF:-1  tvg-name="MOVIEMAX 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13737.jpg" group-title="PREMIUM MOVIES",MOVIEMAX 4K cc
+http://150.242.202.110:824/jiobe/live/13737.ts
+#EXTINF:-1  tvg-name="MOREMAX EAST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13745.jpg" group-title="PREMIUM MOVIES",MOREMAX EAST 4K cc
+http://150.242.202.110:824/jiobe/live/13745.ts
+#EXTINF:-1  tvg-name="MOREMAX WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13753.jpg" group-title="PREMIUM MOVIES",MOREMAX WEST 4K cc
+http://150.242.202.110:824/jiobe/live/13753.ts
+#EXTINF:-1  tvg-name="OUTER MAX 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13761.jpg" group-title="PREMIUM MOVIES",OUTER MAX 4K cc
+http://150.242.202.110:824/jiobe/live/13761.ts
+#EXTINF:-1  tvg-name="MOVIETIME 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1467.jpg" group-title="PREMIUM MOVIES",MOVIETIME 4K cc
+http://150.242.202.110:824/jiobe/live/1467.ts
+#EXTINF:-1  tvg-name="MOVIE CENTRAL FHD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1464.jpg" group-title="PREMIUM MOVIES",MOVIE CENTRAL FHD
+http://150.242.202.110:824/jiobe/live/1464.ts
+#EXTINF:-1  tvg-name="LIFETIME MOVIE NETWORK 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/8010.jpg" group-title="PREMIUM MOVIES",LIFETIME MOVIE NETWORK 4K
+http://150.242.202.110:824/jiobe/live/8010.ts
+#EXTINF:-1  tvg-name="CINEMAX SPANISH 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13729.jpg" group-title="PREMIUM MOVIES",CINEMAX SPANISH 4K cc
+http://150.242.202.110:824/jiobe/live/13729.ts
+#EXTINF:-1  tvg-name="HOLLYWOOD SUITE 2000s 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13601.jpg" group-title="PREMIUM MOVIES",HOLLYWOOD SUITE 2000s 4K
+http://150.242.202.110:824/jiobe/live/13601.ts
+#EXTINF:-1  tvg-name="HOLLYWOOD SUITE 70s 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13609.jpg" group-title="PREMIUM MOVIES",HOLLYWOOD SUITE 70s 4K
+http://150.242.202.110:824/jiobe/live/13609.ts
+#EXTINF:-1  tvg-name="HOLLYWOOD SUITE 80s 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13617.jpg" group-title="PREMIUM MOVIES",HOLLYWOOD SUITE 80s 4K
+http://150.242.202.110:824/jiobe/live/13617.ts
+#EXTINF:-1  tvg-name="HOLLYWOOD SUITE 90s 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13593.jpg" group-title="PREMIUM MOVIES",HOLLYWOOD SUITE 90s 4K
+http://150.242.202.110:824/jiobe/live/13593.ts
+#EXTINF:-1  tvg-name="5 STAR MAX 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/13705.jpg" group-title="PREMIUM MOVIES",5 STAR MAX 4K cc
+http://150.242.202.110:824/jiobe/live/13705.ts
+#EXTINF:-1  tvg-name="SHOWTIME EAST 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1471.jpg" group-title="PREMIUM MOVIES",SHOWTIME EAST 4K
+http://150.242.202.110:824/jiobe/live/1471.ts
+#EXTINF:-1  tvg-name="SHOWTIME WEST 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1474.jpg" group-title="PREMIUM MOVIES",SHOWTIME WEST 4K
+http://150.242.202.110:824/jiobe/live/1474.ts
+#EXTINF:-1  tvg-name="SHOWTIME WOMEN 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1489.jpg" group-title="PREMIUM MOVIES",SHOWTIME WOMEN 4K
+http://150.242.202.110:824/jiobe/live/1489.ts
+#EXTINF:-1  tvg-name="SHOWTIME EXTREME 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1475.jpg" group-title="PREMIUM MOVIES",SHOWTIME EXTREME 4K
+http://150.242.202.110:824/jiobe/live/1475.ts
+#EXTINF:-1  tvg-name="SUPER CHANNEL FUSE 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1463.jpg" group-title="PREMIUM MOVIES",SUPER CHANNEL FUSE 4K
+http://150.242.202.110:824/jiobe/live/1463.ts
+#EXTINF:-1  tvg-name="SUPER CHANNEL HEART & HOME FHD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1462.jpg" group-title="PREMIUM MOVIES",SUPER CHANNEL HEART & HOME FHD
+http://150.242.202.110:824/jiobe/live/1462.ts
+#EXTINF:-1  tvg-name="SUPER CHANNEL VAULT FHD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1466.jpg" group-title="PREMIUM MOVIES",SUPER CHANNEL VAULT FHD
+http://150.242.202.110:824/jiobe/live/1466.ts
+#EXTINF:-1  tvg-name="FILM 4 UK 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/40297.jpg" group-title="PREMIUM MOVIES",FILM 4 UK 4K
+http://150.242.202.110:824/jiobe/live/40297.ts
+#EXTINF:-1  tvg-name="SONY MOVIE CHANNEL 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1490.jpg" group-title="PREMIUM MOVIES",SONY MOVIE CHANNEL 4K
+http://150.242.202.110:824/jiobe/live/1490.ts
+#EXTINF:-1  tvg-name="CINEMAX EAST 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1491.jpg" group-title="PREMIUM MOVIES",CINEMAX EAST 4K
+http://150.242.202.110:824/jiobe/live/1491.ts
+#EXTINF:-1  tvg-name="CINEMAX WEST 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1501.jpg" group-title="PREMIUM MOVIES",CINEMAX WEST 4K
+http://150.242.202.110:824/jiobe/live/1501.ts
+#EXTINF:-1  tvg-name="SYFY 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1495.jpg" group-title="PREMIUM MOVIES",SYFY 4K cc
+http://150.242.202.110:824/jiobe/live/1495.ts
+#EXTINF:-1  tvg-name="TCM EAST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1496.jpg" group-title="PREMIUM MOVIES",TCM EAST 4K cc
+http://150.242.202.110:824/jiobe/live/1496.ts
+#EXTINF:-1  tvg-name="LIFETIME HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1497.jpg" group-title="PREMIUM MOVIES",LIFETIME HD
+http://150.242.202.110:824/jiobe/live/1497.ts
+#EXTINF:-1  tvg-name="TATA SKY HITS 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1476.jpg" group-title="PREMIUM MOVIES",TATA SKY HITS 4K cc
+http://150.242.202.110:824/jiobe/live/1476.ts
+#EXTINF:-1  tvg-name="AND FLIX HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1477.jpg" group-title="PREMIUM MOVIES",AND FLIX HD
+http://150.242.202.110:824/jiobe/live/1477.ts
+#EXTINF:-1  tvg-name="MN PLUS HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1480.jpg" group-title="PREMIUM MOVIES",MN PLUS HD
+http://150.242.202.110:824/jiobe/live/1480.ts
+#EXTINF:-1  tvg-name="MOVIES NOW HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1481.jpg" group-title="PREMIUM MOVIES",MOVIES NOW HD
+http://150.242.202.110:824/jiobe/live/1481.ts
+#EXTINF:-1  tvg-name="MNX HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1482.jpg" group-title="PREMIUM MOVIES",MNX HD
+http://150.242.202.110:824/jiobe/live/1482.ts
+#EXTINF:-1  tvg-name="ZEE THEATRE 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1483.jpg" group-title="PREMIUM MOVIES",ZEE THEATRE 4K
+http://150.242.202.110:824/jiobe/live/1483.ts
+#EXTINF:-1  tvg-name="STAR MOVIES SELECT HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1485.jpg" group-title="PREMIUM MOVIES",STAR MOVIES SELECT HD
+http://150.242.202.110:824/jiobe/live/1485.ts
+#EXTINF:-1  tvg-name="AND PRIVE HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1486.jpg" group-title="PREMIUM MOVIES",AND PRIVE HD
+http://150.242.202.110:824/jiobe/live/1486.ts
+#EXTINF:-1  tvg-name="STAR MOVIES HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1487.jpg" group-title="PREMIUM MOVIES",STAR MOVIES HD
+http://150.242.202.110:824/jiobe/live/1487.ts
+#EXTINF:-1  tvg-name="SONY PIX HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1488.jpg" group-title="PREMIUM MOVIES",SONY PIX HD
+http://150.242.202.110:824/jiobe/live/1488.ts
+#EXTINF:-1  tvg-name="FXX 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1515.jpg" group-title="PREMIUM MOVIES",FXX 4K
+http://150.242.202.110:824/jiobe/live/1515.ts
+#EXTINF:-1  tvg-name="FX 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1498.jpg" group-title="PREMIUM MOVIES",FX 4K
+http://150.242.202.110:824/jiobe/live/1498.ts
+#EXTINF:-1  tvg-name="FX PACIFIC 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1499.jpg" group-title="PREMIUM MOVIES",FX PACIFIC 4K
+http://150.242.202.110:824/jiobe/live/1499.ts
+#EXTINF:-1  tvg-name="FXM 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1500.jpg" group-title="PREMIUM MOVIES",FXM 4K
+http://150.242.202.110:824/jiobe/live/1500.ts
+#EXTINF:-1  tvg-name="FXX PACIFIC 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1504.jpg" group-title="PREMIUM MOVIES",FXX PACIFIC 4K
+http://150.242.202.110:824/jiobe/live/1504.ts
+#EXTINF:-1  tvg-name="AMC 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1503.jpg" group-title="PREMIUM MOVIES",AMC 4K cc
+http://150.242.202.110:824/jiobe/live/1503.ts
+#EXTINF:-1  tvg-name="AMC+ 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1505.jpg" group-title="PREMIUM MOVIES",AMC+ 4K
+http://150.242.202.110:824/jiobe/live/1505.ts
+#EXTINF:-1  tvg-name="AMC THRILLERS 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1510.jpg" group-title="PREMIUM MOVIES",AMC THRILLERS 4K
+http://150.242.202.110:824/jiobe/live/1510.ts
+#EXTINF:-1  tvg-name="STORIES BY AMC 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1508.jpg" group-title="PREMIUM MOVIES",STORIES BY AMC 4K
+http://150.242.202.110:824/jiobe/live/1508.ts
+#EXTINF:-1  tvg-name="IFC HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1512.jpg" group-title="PREMIUM MOVIES",IFC HD
+http://150.242.202.110:824/jiobe/live/1512.ts
+#EXTINF:-1  tvg-name="MY TIME MOVIES NETWORK 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1528.jpg" group-title="PREMIUM MOVIES",MY TIME MOVIES NETWORK 4K
+http://150.242.202.110:824/jiobe/live/1528.ts
+#EXTINF:-1  tvg-name="GREAT MOVIES ACTION" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1532.jpg" group-title="PREMIUM MOVIES",GREAT MOVIES ACTION
+http://150.242.202.110:824/jiobe/live/1532.ts
+#EXTINF:-1  tvg-name="GREAT MOVIES CLASSIC" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1533.jpg" group-title="PREMIUM MOVIES",GREAT MOVIES CLASSIC
+http://150.242.202.110:824/jiobe/live/1533.ts
+#EXTINF:-1  tvg-name="HORROR CHANNEL" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1534.jpg" group-title="PREMIUM MOVIES",HORROR CHANNEL
+http://150.242.202.110:824/jiobe/live/1534.ts
+#EXTINF:-1  tvg-name="TCM UK" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1535.jpg" group-title="PREMIUM MOVIES",TCM UK
+http://150.242.202.110:824/jiobe/live/1535.ts
+#EXTINF:-1  tvg-name="TCM WEST 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1536.jpg" group-title="PREMIUM MOVIES",TCM WEST 4K cc
+http://150.242.202.110:824/jiobe/live/1536.ts
+#EXTINF:-1  tvg-name="GREAT MOVIES" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1538.jpg" group-title="PREMIUM MOVIES",GREAT MOVIES
+http://150.242.202.110:824/jiobe/live/1538.ts
+#EXTINF:-1  tvg-name="SKY CINEMA ACTION HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1517.jpg" group-title="PREMIUM MOVIES",SKY CINEMA ACTION HD
+http://150.242.202.110:824/jiobe/live/1517.ts
+#EXTINF:-1  tvg-name="CBS DRAMA" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1540.jpg" group-title="PREMIUM MOVIES",CBS DRAMA
+http://150.242.202.110:824/jiobe/live/1540.ts
+#EXTINF:-1  tvg-name="SKY CINEMA COMEDY HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1519.jpg" group-title="PREMIUM MOVIES",SKY CINEMA COMEDY HD
+http://150.242.202.110:824/jiobe/live/1519.ts
+#EXTINF:-1  tvg-name="GREAT TV" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1542.jpg" group-title="PREMIUM MOVIES",GREAT TV
+http://150.242.202.110:824/jiobe/live/1542.ts
+#EXTINF:-1  tvg-name="SKY CINEMA PREMIERE HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1521.jpg" group-title="PREMIUM MOVIES",SKY CINEMA PREMIERE HD
+http://150.242.202.110:824/jiobe/live/1521.ts
+#EXTINF:-1  tvg-name="SKY CINEMA ANIMATION 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1522.jpg" group-title="PREMIUM MOVIES",SKY CINEMA ANIMATION 4K
+http://150.242.202.110:824/jiobe/live/1522.ts
+#EXTINF:-1  tvg-name="SKY CINEMA DRAMA HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1523.jpg" group-title="PREMIUM MOVIES",SKY CINEMA DRAMA HD
+http://150.242.202.110:824/jiobe/live/1523.ts
+#EXTINF:-1  tvg-name="SKY CINEMA FAMILY HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1524.jpg" group-title="PREMIUM MOVIES",SKY CINEMA FAMILY HD
+http://150.242.202.110:824/jiobe/live/1524.ts
+#EXTINF:-1  tvg-name="SKY CINEMA SELECT HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1525.jpg" group-title="PREMIUM MOVIES",SKY CINEMA SELECT HD
+http://150.242.202.110:824/jiobe/live/1525.ts
+#EXTINF:-1  tvg-name="SKY CINEMA GREATS HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1526.jpg" group-title="PREMIUM MOVIES",SKY CINEMA GREATS HD
+http://150.242.202.110:824/jiobe/live/1526.ts
+#EXTINF:-1  tvg-name="SKY CINEMA SCI-FI & HORROR HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1527.jpg" group-title="PREMIUM MOVIES",SKY CINEMA SCI-FI & HORROR HD
+http://150.242.202.110:824/jiobe/live/1527.ts
+#EXTINF:-1  tvg-name="SKY CINEMA THRILLER HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1530.jpg" group-title="PREMIUM MOVIES",SKY CINEMA THRILLER HD
+http://150.242.202.110:824/jiobe/live/1530.ts
+#EXTINF:-1  tvg-name="SKY CINEMA MEGAHITS HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/1531.jpg" group-title="PREMIUM MOVIES",SKY CINEMA MEGAHITS HD
+http://150.242.202.110:824/jiobe/live/1531.ts
 
