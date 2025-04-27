@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://sliv.fredflix.fun/sony_ten1hd/playlist.m3u8?hdnts=URLPrefix%3DaHR0cHM6Ly9zbGl2LmZyZWRmbGl4LmZ1bg%3D%3D%7EExpires%3D1745746054000%7Ehmac%3D4985aa1e7f5af58dc5bed807da00212a26579ddfe4b0ebd7e49056bc11ca4d0f"group-title="Sports" group-title="",Sony Ten 1 HD
 http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
