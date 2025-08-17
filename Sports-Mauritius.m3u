@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.ibb.co/YWdHcLR/SAVE-20230930-185326.jpg" , @ Shwapno Ahmed @
 https://t.me/+QN34112ngzYyNzQ1
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Football Live" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Football Live
+https://tvsen6.aynaott.com/spsel1/index.m3u8
+
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
