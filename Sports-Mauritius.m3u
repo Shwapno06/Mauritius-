@@ -9,15 +9,13 @@ https://tvsen6.aynaott.com/spsel1/index.m3u8
 https://tvsen6.aynaott.com/spsel1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports HD1
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Football Live
 https://tvsen6.aynaott.com/spsel1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Ten Cricket
-
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",TNT Sports
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
 https://tvsen6.aynaott.com/btSport1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",T Sports
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
