@@ -19,11 +19,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 https://tvsen6.aynaott.com/btSport1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",T Sports
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Willow Cricket HD
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Willow Sports HD
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",A Sports
 https://tvsen7.aynaott.com/asports-bkp/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA 3
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
