@@ -50,7 +50,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Sports",Sony Sports 3 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
-
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten 1 HD
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_162.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -63,13 +64,13 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Sony Ten 4" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Sony Ten 5" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-
-
-#EXTINF
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-id="Sony Ten 5" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten 5 HD
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_155.m3u8
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Canal%2B2025.png/250px-Canal%2B2025.png" group-title="CINEMA",CANAL+ HD
 https://events3.liveboxpro.com/event/121.m3u8
 #EXTINF:-1 tvg-id="warnertv.fr" tvg-name="WARNER" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/59/WarnerTV.png/revision/latest?cb=20190817170410&path-prefix=fr" group-title="CINEMA",WARNER
