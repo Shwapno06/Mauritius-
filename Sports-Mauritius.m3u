@@ -23,6 +23,8 @@ http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&
 
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports HD1
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports HD2
+http://89.187.189.98/STARSPORTS2HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Football Live
 https://tvsen6.aynaott.com/spsel1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports
