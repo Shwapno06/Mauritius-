@@ -64,7 +64,180 @@ http://202.70.146.135:8000/playlist.m3u8
 #EXTINF:-1 ,Star Sports Select 2 HD
 http://202.70.146.135:8000/play/a03e/index.m3u8
 
-
+#EXTINF:-1 ,MBC 3
+http://93.184.10.248/MBC3/index.m3u8
+#EXTINF:-1 ,Nile sport
+http://93.184.10.248/NileSport/index.m3u8
+#EXTINF:-1 ,MBC 4
+http://93.184.10.248/MBC4/index.m3u8
+#EXTINF:-1 ,Rotana Drama
+http://93.184.10.248/RotanaDrama/index.m3u8
+#EXTINF:-1 ,MBC 5
+http://93.184.10.248/MBC5/index.m3u8
+#EXTINF:-1 ,MBC 2
+http://93.184.10.248/MBC2/index.m3u8
+#EXTINF:-1 ,Rotana Classic
+http://93.184.10.248/RotanaClassic/index.m3u8
+#EXTINF:-1 ,MBC ACTION
+http://93.184.10.248/MBCAction/index.m3u8
+#EXTINF:-1 ,TRACE URBAN (HD)
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 ,Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 ,CANAL Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 ,Nickelodeon (1080p)
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 ,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 ,Eurosport 2 (FR) (Alt)
+http://151.80.18.177:86/Eurosport_2_HD/mpegts
+#EXTINF:-1 ,National Geographic-FR
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 ,Eurosport 2 (FR)
+http://151.80.18.177:86/Eurosport_2_HD/playlist.m3u8
+#EXTINF:-1 ,Eurosport_2_HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 ,Eurosport_HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,TF1 HD (HD)
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 ,Eurosport 1 (FR) (Alt)
+http://151.80.18.177:86/Eurosport_HD/mpegts
+#EXTINF:-1 ,DisneyChannel
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 ,Serie Club (HD)
+http://151.80.18.177:86/Serie_Club_HD/index.m3u8
+#EXTINF:-1 ,RTL9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 ,RMC DECOUVERDE-FR
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 ,Eurosport 1 (FR)
+http://151.80.18.177:86/Eurosport_HD/playlist.m3u8
+#EXTINF:-1 ,Discovery_HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 ,TEVA-FR
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 ,Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 ,Infosport (HD)
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+#EXTINF:-1 ,Paris Premiere HD (FHD)
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 ,espn4
+http://45.5.119.43:4000/play/a028/index.m3u8
+#EXTINF:-1 ,espn2
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 ,SKY SPORTS GT
+http://45.171.64.30:2000/play/a08m/index.m3u8
+#EXTINF:-1 ,TIGO SPORT
+http://45.171.64.30:2000/play/a08e/index.m3u8
+#EXTINF:-1 ,Winsport
+http://181.78.85.59:2500/play/a030/index.m3u8
+#EXTINF:-1 ,universo_hd
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 ,hbo_family_hd
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+#EXTINF:-1 ,ESPN CO
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 ,ESPN 6 HD
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:-1 ,ESPN 7 HD
+http://38.7.101.90:8000/play/a1zj/index.m3u8
+#EXTINF:-1 ,TUDN
+http://45.171.64.30:2000/play/a08j/index.m3u8
+#EXTINF:-1 ,SR. CINE ROBOTS HD
+http://200.115.120.1:8000/play/ca072/index.m3u8
+#EXTINF:-1 ,Hogar TV
+http://38.44.109.41:8003/play/a02k/index.m3u8
+#EXTINF:-1 ,TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 ,CANAL CARACOL HD
+http://181.78.85.59:2500/play/a02z/index.m3u8
+#EXTINF:-1 ,Canal RCN
+http://181.78.85.59:2500/play/a01v/index.m3u8
+#EXTINF:-1 ,TELEANTIOQUIA
+http://181.78.85.59:2500/play/a007/index.m3u8
+#EXTINF:-1 ,SKY SPORT HD3
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 ,BEIN SPORTS Ñ.HD2
+http://190.83.9.222:8000/play/ca129
+#EXTINF:-1 ,WIN SPORT HD12
+http://190.0.247.38:8000/play/a068
+#EXTINF:-1 ,TIGO SPORT HD6
+http://190.14.10.19:16000/play/a00ps/index.m3u8
+#EXTINF:-1 ,SON POPULAR
+http://181.78.71.71:18000/play/a01m/index.m3u8
+#EXTINF:-1 ,SON LATINO INTERNET
+http://181.78.71.71:18000/play/a01l/index.m3u8
+#EXTINF:-1 ,GLOBAL_HOGAR TV INTERNET
+http://181.78.71.71:18000/play/a06x/index.m3u8
+#EXTINF:-1 ,ESPN3 MX
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:-1 ,ESPN5 MX
+http://190.14.10.19:16000/play/a09e/index.m3u8
+#EXTINF:-1 ,ESPN6
+http://190.14.10.19:16000/play/a07u/index.m3u8
+#EXTINF:-1 ,ESPN MX
+http://190.14.10.19:16000/play/a092/index.m3u8
+#EXTINF:-1 ,ESPN PREMIUM HD
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1 ,WIN SPORTS+ HD
+http://181.205.130.194:4000/play/a0fu
+#EXTINF:-1 ,Fox SPORTS 3
+http://45.5.119.43:4000/play/a024/index.m3u8
+#EXTINF:-1 ,TELEMEDELLIN
+http://190.0.247.38:8000/play/a008
+#EXTINF:-1 ,TeleAntioquia
+http://190.0.247.38:8000/play/a007
+#EXTINF:-1 ,Caracol
+http://190.0.247.38:8000/play/a009
+#EXTINF:-1 ,Caracol2
+http://190.0.247.38:8000/play/a04c
+#EXTINF:-1 ,RCN
+http://190.0.247.38:8000/play/a00b
+#EXTINF:-1 ,RCN2
+http://190.0.247.38:8000/play/a065
+#EXTINF:-1 ,Mundial Azteca UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 ,Gol TV
+http://38.44.109.41:8003/play/a02h/index.m3u8
+#EXTINF:-1 ,AZTECA uno
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:-1 ,Azteca 7
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 ,Azteca 7a
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ESPN IXP
+http://200.229.147.142:8000/play/a013/index.m3u8
+#EXTINF:-1 ,WIN
+http://190.60.32.178:8178/play/a0fk/index.m3u8
+#EXTINF:-1 ,NTN24
+http://190.60.32.178:8178/play/a0h8/index.m3u8
+#EXTINF:-1 ,BabyTv
+http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
+#EXTINF:-1 ,ESPN PREMIUM HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 ,ESPN  4 HD
+http://181.78.49.113:9999/play/a07e/index.m3u8
+#EXTINF:-1 ,ESPN 5  HD
+http://181.78.49.113:9999/play/a07f/index.m3u8
+#EXTINF:-1 ,la liga
+http://45.5.119.43:4000/play/a05r/index.m3u8
+#EXTINF:-1 ,tudn
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 ,DAZN
+http://matrivagoweb.xyz:8080/mauri000/03031993/67369
+#EXTINF:-1 ,TIGO  Sports
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 ,azteca 7
+http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1 ,5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 ,5mx
+http://200.229.147.142:8000/play/a06t/index.m3u8
+#EXTINF:-1 ,TUDN IXP
+http://200.229.147.142:8000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZRGLxFh/images-(1).jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
