@@ -46,6 +46,25 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 #EXTINF:-1 ,Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 ,Euro Sport 1 HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 ,Euro Sport 2 HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 ,Fight Network HD
+http://79.127.207.193:80/FightNetwork/playlist.m3u8
+#EXTINF:-1 ,Rai Sport HD
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+
+#EXTINF:-1 ,NAT GEO HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 ,Star Sports 1 Hindi
+http://202.70.146.135:8000/play/a01e/index.m3u8
+#EXTINF:-1 ,Custom Scan
+http://202.70.146.135:8000/playlist.m3u8
+#EXTINF:-1 ,Star Sports Select 2 HD
+http://202.70.146.135:8000/play/a03e/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZRGLxFh/images-(1).jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
